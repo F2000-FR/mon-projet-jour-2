@@ -9,6 +9,8 @@
     <h1>Hello, world!</h1>
     <form>
 	<input />
+	<input />
+	<input />
     </form>
   </body>
 </html>
