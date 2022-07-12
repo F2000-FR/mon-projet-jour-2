@@ -10,3 +10,5 @@ logs/*.log
 .vs/*
 
 *.tmp
+
+config.yaml
