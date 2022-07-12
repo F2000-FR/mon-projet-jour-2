@@ -1,0 +1,12 @@
+#v1
+logs/*
+!logs/.gitkeep
+
+# v2
+logs/*.log
+
+
+.idea/*
+.vs/*
+
+*.tmp
